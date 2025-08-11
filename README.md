@@ -1,1 +1,1 @@
-# social-media-trend monitor
+# social-media trend monitor
